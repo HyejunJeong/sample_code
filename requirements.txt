@@ -1,0 +1,4 @@
+autogen-agentchat
+autogen-ext
+playwright
+nest_asyncio
